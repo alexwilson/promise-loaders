@@ -1,0 +1,28 @@
+{
+  "name": "promise-script-loader",
+  "version": "0.1.0",
+  "description": "A promise-based asynchronous script loader.",
+  "main": "promiseScriptLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoligy/promise-script-loader.git"
+  },
+  "keywords": [
+    "promise",
+    "import",
+    "ajax",
+    "resource",
+    "script",
+    "browser",
+    "asynchronous"
+  ],
+  "author": "Alex Wilson <a@ax.gy>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoligy/promise-script-loader/issues"
+  },
+  "homepage": "https://github.com/antoligy/promise-script-loader#readme"
+}
