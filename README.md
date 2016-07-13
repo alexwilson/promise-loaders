@@ -17,3 +17,7 @@ Promise-script-loader is a tool designed to allow for easy asynchronous script-l
 
 ### npm ###
 `$ npm install --save promise-script-loader`
+
+
+## Polyfilling ##
+This depends on Promises, which are not supported by older browsers.  To get around this, I recommend using [Polyfill.io](https://polyfill.io/v2/docs/features/#Promise) which will target only the browsers that need polyfilling.
