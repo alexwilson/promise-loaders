@@ -1,0 +1,26 @@
+{
+  "name": "promise-image-loader",
+  "version": "0.1.2",
+  "description": "A promise-based image loader.  Useful for pre-loading or waiting for images to load.",
+  "main": "promiseImageLoader.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoligy/promise-loaders.git"
+  },
+  "keywords": [
+    "promise",
+    "import",
+    "ajax",
+    "resource",
+    "script",
+    "image",
+    "browser",
+    "asynchronous"
+  ],
+  "author": "Alex Wilson <a@ax.gy>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoligy/promise-loaders/issues"
+  },
+  "homepage": "https://github.com/antoligy/promise-loaders#readme"
+}
